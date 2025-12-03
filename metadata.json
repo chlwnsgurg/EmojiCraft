@@ -1,0 +1,5 @@
+{
+  "name": "Emoji Builder",
+  "description": "Create custom emoji sets using Gemini 2.5 Flash Image. Define concepts, add text, and build your own sticker packs.",
+  "requestFramePermissions": []
+}
